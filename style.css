@@ -1,0 +1,39 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 25px;
+    box-shadow: 5px 5px 15px lightblue;
+    width: 100%;
+    margin: 0px;
+}
+#start
+{
+    width: 100px;
+}
+canvas
+{
+    margin-top: 130px;
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px azure;
+}
+
+#status, #object_found, #note
+{
+    font-size: 20px;
+    color: black;
+}
+#object
+{
+    color: aliceblue;
+    font-size: 20px;
+}
+#input
+{
+    width: 30%;
+    border-radius: 50px;
+    height: 30px;
+}
